@@ -1,5 +1,5 @@
 print("""
-by Hhtitg_1234_
+by Hhtitg1234
 version 1.00\n""")
 
 # Главное меню
