@@ -1,7 +1,7 @@
-print("""
-Программа-помощник по решению задач через формулы
-by Hhtitg_1234_
-version 3.00\n""")
+from art import *
+print("Программа-помощник по решению задач через формулы")
+tprint("by Hhtitg_1234_")
+print("version 3.10\n")
 
 def plavlenie():
     print(
